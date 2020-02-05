@@ -1,0 +1,13 @@
+C:\Users\kcamposa\Desktop\vekFud\vekFud\bin\Debug\vekFud.exe.config
+C:\Users\kcamposa\Desktop\vekFud\vekFud\bin\Debug\vekFud.exe
+C:\Users\kcamposa\Desktop\vekFud\vekFud\bin\Debug\vekFud.pdb
+C:\Users\kcamposa\Desktop\vekFud\vekFud\obj\Debug\vekFud.Properties.Resources.resources
+C:\Users\kcamposa\Desktop\vekFud\vekFud\obj\Debug\vekFud.csproj.GenerateResource.cache
+C:\Users\kcamposa\Desktop\vekFud\vekFud\obj\Debug\vekFud.exe
+C:\Users\kcamposa\Desktop\vekFud\vekFud\obj\Debug\vekFud.pdb
+C:\Users\kcamposa\Desktop\vekFud\vekFud\obj\Debug\vekFud.csproj.ResolveComReference.cache
+C:\Users\kcamposa\Desktop\vekFud\vekFud\bin\Debug\SpreadsheetLight.dll
+C:\Users\kcamposa\Desktop\vekFud\vekFud\bin\Debug\SpreadsheetLight.xml
+C:\Users\kcamposa\Desktop\vekFud\vekFud\obj\Debug\vekFud.csproj.CopyComplete
+C:\Users\kcamposa\Desktop\vekFud\vekFud\obj\Debug\vekFud.frmUserAD.resources
+C:\Users\kcamposa\Desktop\vekFud\vekFud\obj\Debug\vekFud.csprojAssemblyReference.cache
