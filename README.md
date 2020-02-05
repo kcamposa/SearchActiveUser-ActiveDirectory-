@@ -4,22 +4,22 @@ With this tool you can search active directory users from txt file
 With this tool you can search active users in active directory from txt file, for example,
 you have this users in the txt file:
   
-  CALDERON  CHACON MARIA PAULA
-  GONZALEZ  FONSECA JORGE ARTURO
-  MORA  VILLALOBOS CRISTEL MARIANA
-  BENAVIDES  SOLANO GREIVIN GERARDO
-  CAMPOS ALFARO KEVIN
-  BENAVIDES GONZALEZ EDUARDO
-  JIMENEZ ARAYA RAUL
-  FERNANDEZ MONTERO RICARDO ANDRES
-  HERNANDEZ MUÑOZ MERLYN CLEER
-  MORA  ALVARADO JOSE ROLANDO
-  GAMBOA  PERAZA MICHAEL FERNANDO
-  MORA  LAMMAS MILENA
-  ZAMORA  ROJAS VICTOR HUGO
-  AGUERO  MENDOZA  JOSE JOAQUIN
-  FONSECA  ARAYA  CARLOS
-  SALAZAR  CALDERON LUIS FERNANDO
+  CALDERON  CHACON MARIA PAULA <txt line>
+  GONZALEZ  FONSECA JORGE ARTURO <txt line>
+  MORA  VILLALOBOS CRISTEL MARIANA <txt line>
+  BENAVIDES  SOLANO GREIVIN GERARDO <txt line>
+  CAMPOS ALFARO KEVIN <txt line>
+  BENAVIDES GONZALEZ EDUARDO <txt line>
+  JIMENEZ ARAYA RAUL <txt line>
+  FERNANDEZ MONTERO RICARDO ANDRES <txt line>
+  HERNANDEZ MUÑOZ MERLYN CLEER <txt line>
+  MORA  ALVARADO JOSE ROLANDO <txt line>
+  GAMBOA  PERAZA MICHAEL FERNANDO <txt line>
+  MORA  LAMMAS MILENA <txt line>
+  ZAMORA  ROJAS VICTOR HUGO <txt line>
+  AGUERO  MENDOZA  JOSE JOAQUIN <txt line>
+  FONSECA  ARAYA  CARLOS <txt line>
+  SALAZAR  CALDERON LUIS FERNANDO <txt line>
 
 The tool will show you what user or users are active, will show the Windows account, user name, last name and job title. 
 But in this format the users have the last name first and later the name, the tool will allowed you choose the format, 
